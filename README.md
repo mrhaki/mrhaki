@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hello. I am a passionate Groovy and Java developer based in Tilburg, The Netherlands. My goal is to write software, like Pixar makes movies, BMW makes cars, Bang & Olufsen makes audio and TV systems and Apple makes computers and devices: clean, elegant, user-centered and high quality.
+
+
 
 <!--
 **mrhaki/mrhaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
